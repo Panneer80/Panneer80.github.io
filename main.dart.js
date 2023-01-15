@@ -47201,7 +47201,7 @@ A.xO.prototype={
 L(a){return new A.pd(B.BH,"Flutter Demo",A.a3W(null,B.eu,null),!1,null)}}
 A.xP.prototype={
 L(a){var s=null
-return new A.qj(new A.nD(new A.qL("Loard Krishna!",s,s,s,s),B.Bs,new A.Ed(s,s,1/0,56),s),A.IK(s,s,B.jS,s,s,s,s),s)}}
+return new A.qj(new A.nD(new A.qL("Lord Krishna!",s,s,s,s),B.Bs,new A.Ed(s,s,1/0,56),s),A.IK(s,s,B.jS,s,s,s,s),s)}}
 A.aZ.prototype={
 ao(a){var s=a.a,r=this.a
 r[15]=s[15]
