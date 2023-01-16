@@ -19555,7 +19555,7 @@ var $async$aaP=A.a6(function(b,c){if(b===1)return A.a2(c,r)
 while(true)switch(s){case 0:o=A.arP("https","api.openai.com","v1/completions",null)
 n=t.N
 m=A.av(["prompt",a,"max_tokens",500,"temperature",0.5,"model","text-davinci-003"],n,t.K)
-n=A.av(["Content-Type","application/json","Authorization","Bearer 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"],n,n)
+n=A.av(["Content-Type","application/json","Authorization","Bearer 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"],n,n)
 s=3
 return A.a0(A.auN(o,B.aS.io(m),n),$async$aaP)
 case 3:p=c
