@@ -57562,11 +57562,11 @@ l=A.acg(A.oF("Story",A.hI(n,n,B.j,n,n,n,n,n,n,n,n,n,n,n,n,n,n,!0,n,n,n,n,n,n,n,n
 s=m>550
 r=s?m/4:m/16
 q=$.mC==="stories"?B.l9:B.eI
-r=A.ek(n,l,n,new A.dt(q,n,n,A.kG(8),n,n,B.as),30,new A.aA(r+20,0,0,0),new A.aA(7,7,7,7),80)
+r=A.ek(n,l,n,new A.dt(q,n,n,A.kG(8),n,n,B.as),30,new A.aA(r+20,0,0,0),new A.aA(0,0,0,0),80)
 q=A.acg(A.oF("Q & A",A.hI(n,n,B.j,n,n,n,n,n,n,n,n,n,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),B.dZ),new A.a4F(this))
 l=$.mC==="qna"?B.l9:B.eI
 p=t.E
-l=A.E5(A.a([new A.fW(B.kh,n,n,r,n),new A.fW(B.kh,n,n,A.ek(n,q,n,new A.dt(l,n,n,A.kG(8),n,n,B.as),30,new A.aA(10,0,0,0),new A.aA(7,7,7,7),80),n)],p),B.aD,n,B.bF,B.aI)
+l=A.E5(A.a([new A.fW(B.kh,n,n,r,n),new A.fW(B.kh,n,n,A.ek(n,q,n,new A.dt(l,n,n,A.kG(8),n,n,B.as),30,new A.aA(10,0,0,0),new A.aA(0,0,0,0),80),n)],p),B.aD,n,B.bF,B.aI)
 r=A.ek(n,n,n,n,n,n,n,s?m/4:m/16)
 q=A.aat(220,237,244,1)
 o=A.kG(20)
